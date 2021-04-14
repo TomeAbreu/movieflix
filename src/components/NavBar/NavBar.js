@@ -20,7 +20,7 @@ const NavBar = () => {
   return (
     <div className={`nav ${show && "nav_black"}`}>
       <div className="nav_content">
-        <img className="nav_logo" src="/tmdb.new.logo.svg.png" alt="" />
+        <img className="nav_logo" src="/tmdbLogo.svg" alt="" />
         <img className="nav_avatar" src="/avatar-tmdb.png" alt="" />
       </div>
     </div>
